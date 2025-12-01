@@ -1,0 +1,10 @@
+*.parquet
+*.csv
+*.zip
+*.nc*.parquet
+*.csv
+*.zip
+*.nc
+*.html
+.tmp/
+.DS_Store
